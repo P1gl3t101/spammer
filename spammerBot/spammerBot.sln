@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "spammerBot", "spammerBot\spammerBot.pyproj", "{44356D4F-B0D6-42E8-A9EB-F68AB384CE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44356D4F-B0D6-42E8-A9EB-F68AB384CE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44356D4F-B0D6-42E8-A9EB-F68AB384CE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BF80A9-8B5C-415D-9002-5E844E8757B6}
+	EndGlobalSection
+EndGlobal
